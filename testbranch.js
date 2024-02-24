@@ -1,1 +1,1 @@
-console.log("qunvu");
+var name = 'quanvu';
