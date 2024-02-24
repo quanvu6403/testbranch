@@ -1,1 +1,1 @@
-console.log(thanhdat);
+console.log('thanhdat');
