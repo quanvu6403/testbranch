@@ -1,1 +1,2 @@
-console.log('thanhdat');
+var name = 'quanvu';
+console.log('name');
